@@ -48,7 +48,7 @@ main {
     align-items: center;
     gap: 10px;
 
-    background-color: skyblue;
+    background-color: rgb(67, 185, 232);
     padding: 30px;
     border: 1px solid black;
 }

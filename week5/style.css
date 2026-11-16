@@ -6,7 +6,7 @@ body {
 
 
 header {
-    background-color: navy;
+    background-color: rgb(13, 13, 117);
     color: rgb(206, 56, 56);
     text-align: center;
     padding: 20px;
@@ -84,7 +84,7 @@ th {
 
 
 footer {
-    background-color: navy;
+    background-color: rgba(15, 15, 215, 0.89);
     color: white;
     text-align: center;
     padding: 16px;
